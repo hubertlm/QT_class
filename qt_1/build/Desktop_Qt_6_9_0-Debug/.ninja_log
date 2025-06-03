@@ -1,0 +1,19 @@
+# ninja log v6
+1	175	1748632230407141695	qt_1_autogen/timestamp	f5c521bdd961886a
+1	175	1748632230407141695	qt_1_autogen/mocs_compilation.cpp	f5c521bdd961886a
+1	175	1748632230407141695	/home/hubert/QT_class/qt_1/build/Desktop_Qt_6_9_0-Debug/qt_1_autogen/timestamp	f5c521bdd961886a
+1	175	1748632230407141695	/home/hubert/QT_class/qt_1/build/Desktop_Qt_6_9_0-Debug/qt_1_autogen/mocs_compilation.cpp	f5c521bdd961886a
+175	3088	1748632230416141695	CMakeFiles/qt_1.dir/main.cpp.o	1331f407acbd129d
+175	3490	1748632230416141695	CMakeFiles/qt_1.dir/test.cpp.o	cf0695a5b256dd58
+175	3627	1748632230416141695	CMakeFiles/qt_1.dir/qt_1_autogen/mocs_compilation.cpp.o	8de885d47c684eba
+3627	3776	1748632233868141685	qt_1	8f326c4ac367f404
+2	10	1748632293933141513	CMakeFiles/clean.additional	ef993b15a92b8f11
+10	13	1748632293941141513	clean	35500be10fd311ca
+2	150	1748632294099141512	qt_1_autogen/timestamp	f5c521bdd961886a
+2	150	1748632294099141512	qt_1_autogen/mocs_compilation.cpp	f5c521bdd961886a
+2	150	1748632294099141512	/home/hubert/QT_class/qt_1/build/Desktop_Qt_6_9_0-Debug/qt_1_autogen/timestamp	f5c521bdd961886a
+2	150	1748632294099141512	/home/hubert/QT_class/qt_1/build/Desktop_Qt_6_9_0-Debug/qt_1_autogen/mocs_compilation.cpp	f5c521bdd961886a
+150	2142	1748632294107141512	CMakeFiles/qt_1.dir/qt_1_autogen/mocs_compilation.cpp.o	8de885d47c684eba
+150	2148	1748632294107141512	CMakeFiles/qt_1.dir/test.cpp.o	cf0695a5b256dd58
+150	2153	1748632294107141512	CMakeFiles/qt_1.dir/main.cpp.o	1331f407acbd129d
+2153	2289	1748632296110141506	qt_1	8f326c4ac367f404
