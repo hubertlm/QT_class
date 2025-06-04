@@ -10,3 +10,14 @@ Test::~Test()
 {
     qInfo() << this << "Deconstrocted";
 }
+
+void Test::testing()
+{
+    QString noise = "ACORDA!";
+    emit alarm(noise);
+}
+
+void Test::wake(QString noise)
+{
+    qInfo() << "From" << sender() << noise;
+}

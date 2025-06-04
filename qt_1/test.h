@@ -11,6 +11,10 @@ public:
     explicit Test(QObject *parent = nullptr);
     ~Test();
 signals:
+    void alarm(QString noise);
+
+public slots:
+    void wake(QString noise);
 };
 
 #endif // TEST_H
